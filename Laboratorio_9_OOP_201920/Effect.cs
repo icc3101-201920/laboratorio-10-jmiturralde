@@ -115,7 +115,6 @@ namespace Laboratorio_9_OOP_201920
                     break;
 
                 case EnumEffect.spy:
-
                     break;
 
                 case EnumEffect.tightBond:
